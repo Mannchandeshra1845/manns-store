@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "GlowBox Mini",
+    "shortDescription": "Portable LED mood light for cozy spaces.",
+    "description": "A minimal smart glow lamp that transforms any corner into a cinematic, relaxing environment. Great for bedrooms, desks, and gifting.",
+    "price": 79,
+    "category": "gadgets",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=900&q=80",
+    "stock": 15,
+    "createdAt": "2026-11-07T00:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "name": "Urban Sketch Art",
+    "shortDescription": "Small framed city illustration for modern walls.",
+    "description": "A collector's edition art print with soft tones and a premium gallery finish. It brings calm elegance to studies, dorms, and spaces.",
+    "price": 145,
+    "category": "small art",
+    "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=900&q=80",
+    "stock": 8,
+    "createdAt": "2026-11-07T00:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "name": "Bloom Ceramic Vase",
+    "shortDescription": "Minimal home décor piece with sculptural finish.",
+    "description": "A handcrafted ceramic vase designed in a soft organic silhouette to give your room a warm and tailored look.",
+    "price": 120,
+    "category": "home decor",
+    "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=900&q=80",
+    "stock": 12,
+    "createdAt": "2026-11-07T00:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "name": "Luna Sling",
+    "shortDescription": "Compact everyday crossbody bag for travel and style.",
+    "description": "A refined crossbody bag with enough room for essentials and a clean, timeless finish for daily wear.",
+    "price": 99,
+    "category": "accessories",
+    "image": "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?auto=format&fit=crop&w=900&q=80",
+    "stock": 18,
+    "createdAt": "2026-11-07T00:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "name": "Pocket Speaker Pro",
+    "shortDescription": "Tiny speaker with punchy sound and premium build.",
+    "description": "Compact audio companion with a reliable battery, deep sound, and a clean matte body designed for everyday movement.",
+    "price": 169,
+    "category": "gadgets",
+    "image": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=900&q=80",
+    "stock": 10,
+    "createdAt": "2026-11-07T00:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "name": "Sunset Block Print",
+    "shortDescription": "Colorful hand-block print for creative corners.",
+    "description": "A vivid wall print with expressive tones and handmade texture that brings a creative atmosphere to any room.",
+    "price": 132,
+    "category": "small art",
+    "image": "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?auto=format&fit=crop&w=900&q=80",
+    "stock": 7,
+    "createdAt": "2026-11-07T00:00:00.000Z"
+  }
+]
